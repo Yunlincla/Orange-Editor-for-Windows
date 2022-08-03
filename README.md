@@ -28,6 +28,6 @@ Orange Editor for Windows
 
 
 ## 聲明
-本軟體使用WPF框架開發，WPF框架則經由.NET基金會及貢獻者以[MIT許可證授權](https://github.com/microsoft/dotnet/blob/master/LICENSE)並開放原始碼。
+本軟體使用WPF框架開發，WPF框架則經由.NET基金會及貢獻者以[MIT許可證授權](https://github.com/dotnet/wpf/blob/main/LICENSE.TXT)並開放原始碼。
 
 © 2022 Ju Zheng Zhang. 著作權所有，並保留所有權利。
