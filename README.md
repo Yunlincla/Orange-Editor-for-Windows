@@ -12,6 +12,10 @@ Orange Editor for Windows
 - 可輸入每一位演出人員的資料，在指定團體類型時，名單會列出所有隸屬於該團體之演出人員。
 - 預設提供椅子、譜架、指揮台、定音鼓。
 
+## 系統需求
+- 至少 Windows 8 或以上。
+- 需先安裝 [.NET 6.0.4](https://dotnet.microsoft.com/zh-cn/download/dotnet) 或以上版本。
+
 ## 未來展望
 - 更富彈性的模板操作。
 - 可輸入每場演出的「例外人員」與「額外人員」。
