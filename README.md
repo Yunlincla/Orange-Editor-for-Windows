@@ -14,7 +14,7 @@ Orange Editor for Windows
 
 ## 系統需求
 - 至少 Windows 8 或以上。
-- 需先安裝 [.NET 6.0.4](https://dotnet.microsoft.com/zh-cn/download/dotnet) 或以上版本。
+- 需先安裝 [.NET Desktop Runtime 6.0.4](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0) 或以上版本。
 
 ## 未來展望
 - 更富彈性的模板操作。
